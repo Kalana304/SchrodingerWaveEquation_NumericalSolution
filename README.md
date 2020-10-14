@@ -6,23 +6,23 @@ In this project, a numerical solution has been proposed to solve the 1-D Schröd
 **Below shows some reuslts for 1-D Schrödinger Equation solutions for 1-D Potential Energy Curves**
 
 <p float="left">
-  <img src="Graphs/wavePlot-Near Infinte Potential Well.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/probPlot-Near Infinte Potential Well.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Near Infinte Potential Well.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/probPlot-Near Infinte Potential Well.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
 </p>
 
 <p float="left">
-  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/probPlot-Harmonic Ocillator Potential Function.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function.png" width="350" title="Wave plot for Harmonic Ocillator Potential Energy Function">
+  <img src="Graphs/probPlot-Harmonic Ocillator Potential Function.png" width="350" title="PDF plot for Harmonic Ocillator Potential Energy Function">
 </p>
 
 **Below shows some reuslts for 2-D Schrödinger Equation solutions for 2-D Potential Energy Curves**
 
 <p float="left">
-  <img src="Graphs/wavePlot-Finte Potential Well.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/PDFPlot-Finte Potential Well.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Finte Potential Well.png" width="350" title="Wave plot for Finite Potential Energy Well">
+  <img src="Graphs/PDFPlot-Finte Potential Well.png" width="350" title="PDF plot for Finite Potential Energy Well">
 </p>
 
 <p float="left">
-  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function2.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/PDFPlot-Harmonic Ocillator Potential Function.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function2.png" width="350" title="Wave plot for Harmonic Ocillator Potential Energy Function">
+  <img src="Graphs/PDFPlot-Harmonic Ocillator Potential Function.png" width="350" title="PDF plot for Harmonic Ocillator Potential Energy Function">
 </p>

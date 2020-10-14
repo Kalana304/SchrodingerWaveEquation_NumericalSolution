@@ -11,18 +11,18 @@ In this project, a numerical solution has been proposed to solve the 1-D Schröd
 </p>
 
 <p float="left">
-  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/probPlot-Harmonic Ocillator Potential Function.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/probPlot-Harmonic Ocillator Potential Function.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
 </p>
 
 **Below shows some reuslts for 2-D Schrödinger Equation solutions for 2-D Potential Energy Curves**
 
 <p float="left">
-  <img src="Graphs/wavePlot-Finte Potential Well.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/PDFPlot-Finte Potential Well.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Finte Potential Well.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/PDFPlot-Finte Potential Well.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
 </p>
 
 <p float="left">
-  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/PDFPlot-Harmonic Ocillator Potential Function.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function2.png" width="350" title="Wave plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/PDFPlot-Harmonic Ocillator Potential Function.png" width="350" title="PDF plot for Near Infinite Potential Energy Well">
 </p>

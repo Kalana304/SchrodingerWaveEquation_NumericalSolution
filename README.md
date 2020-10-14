@@ -3,7 +3,15 @@ Quantum Physics, unlike the Classical Physics, describes the behavior of the mat
 
 In this project, a numerical solution has been proposed to solve the 1-D Schrödinger’s Wave Equation for a user defined Energy Function using python. Further the idea has been extended to 2-D Wave Functions as well. 
 
+**Below shows some reuslts for 1-D Schrödinger Equation solutions for 1-D Potential Energy Curves**
+
 <p float="left">
   <img src="Graphs/wavePlot-Near Infinte Potential Well.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
   <img src="Graphs/probPlot-Near Infinte Potential Well.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
 </p>
+
+<p float="left">
+  <img src="Graphs/wavePlot-Harmonic Ocillator Potential Function.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/probPlot-Harmonic Ocillator Potential Function.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
+</p>
+

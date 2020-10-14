@@ -1,2 +1,5 @@
-# Schrodinger-s-Wave-Equation---NumericalSolution
-This is a project done as a partial requirement of EN 3110 Electronic Devices to provide Numerical Solution for 1-D Schrodinger's Wave Equation using python language. Further it has been extended to 2-D scenarios as well.
+# Numerical Solution for 1-D Schrödinger’s Wave Equation
+Quantum Physics, unlike the Classical Physics, describes the behavior of the matter and light (photons) on the atomic and subatomic level. It is heavily based on the mathematical models which attempt to describe and account for the properties of atoms and their constituents. Schrödinger Equation, also known as Schrödinger’s Wave Equation, is a partial differential equation that describes the dynamics of a quantum mechanics system using the wave function.
+
+In this project, a numerical solution has been proposed to solve the 1-D Schrödinger’s Wave Equation for a user defined Energy Function using python. Further the idea has been extended to 2-D Wave Functions as well. 
+

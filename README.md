@@ -5,5 +5,5 @@ In this project, a numerical solution has been proposed to solve the 1-D Schröd
 
 <p float="left">
   <img src="Graphs/wavePlot-Near Infinte Potential Well.png" width="500" title="Wave plot for Near Infinite Potential Energy Well">
-  <img src="Graphs/probPlot-Near Infinte Potential Well" width="500" title="PDF plot for Near Infinite Potential Energy Well">
+  <img src="Graphs/probPlot-Near Infinte Potential Well.png" width="500" title="PDF plot for Near Infinite Potential Energy Well">
 </p>
